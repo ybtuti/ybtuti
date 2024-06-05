@@ -66,6 +66,8 @@ Feel free to reach out!
 
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ybtuti&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Gift's language" height="192px"  width="500px"/>
+
+  [![ybtuti's GitHub stats](https://github-readme-stats.vercel.app/api?username=ybtuti&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
@@ -73,7 +75,7 @@ Feel free to reach out!
 
 
 
-[![ybtuti's GitHub stats](https://github-readme-stats.vercel.app/api?username=ybtuti&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Let's build the future, together!
 <!-- Building on the Future: [Your 's GitHub Playground ️
