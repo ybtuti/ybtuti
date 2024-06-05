@@ -69,6 +69,9 @@ Feel free to reach out!
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ybtuti&theme=gotham" alt="Gift's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ybtuti&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Gift's language" height="192px"  width="500px"/>
 </div>
+<script src="https://tryhackme.com/badge/2305230"></script>
+
+
 
 
 [![ybtuti's GitHub stats](https://github-readme-stats.vercel.app/api?username=ybtuti&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
