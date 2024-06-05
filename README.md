@@ -59,16 +59,14 @@ This repo is a work in progress, so stay tuned for exciting updates as I build c
 
 Feel free to reach out!
 
-[Github](https://github.com/ybtuti)
-
-[Email](msuusamuel@gmail.com)
-
-[LinkedIn](https://www.linkedin.com/in/samuelmusuu/)
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xodus.png" alt="TryHackMe">
 
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ybtuti&theme=gotham" alt="Gift's LangStat" />
+
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ybtuti&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Gift's language" height="192px"  width="500px"/>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0xodus.png" alt="TryHackMe">
+  
 </div>
 
 
