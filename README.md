@@ -39,17 +39,6 @@ Level Up My Skills: Seeking guidance from seasoned developers to refine my debug
 
 I'm always looking for opportunities to collaborate on projects that leverage the power of distributed technologies like blockchain.  
 
-If you have an idea you're itching to bring to life, let's chat!  I'm particularly interested in projects that:  
-Foster a more collaborative and transparent future.  
-Promote positive social impact.  
-Push the boundaries of what's possible with blockchain technology.
-
-**Need a Hand?  I Got You!**
-
-While I'm still learning, I'm always happy to lend a helping hand with:  
-Debugging your code and finding those pesky bugs.  
-Design considerations for user interfaces in blockchain applications.
-
 **Open to:**    
     Answering Your Web3 & Cybersecurity Questions: No question is too basic, fire away! ❓️
 
