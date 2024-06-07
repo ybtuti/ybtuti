@@ -49,7 +49,6 @@ This repo is a work in progress, so stay tuned for exciting updates as I build c
 Feel free to reach out!
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/0xodus.png" alt="TryHackMe">
-[![](https://visitcount.itsvg.in/api?id=ybtuti&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 
  <div>
