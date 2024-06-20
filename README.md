@@ -20,7 +20,7 @@ What's up, chainlinkers!  I'm Samuel, currently a computer Science and a develop
 
 **Currently on my plate:**
 
-**BNB Chain Development:** Diving deep into the world of smart contracts, building dApps on the blazing-fast Binance Smart Chain. 
+**Foundry** Diving deep into the world of smart contracts, building dApps on the blazing-fast Binance Smart Chain. 
 
 ⚡️
 **Solidity Apprentice:** Mastering the art of writing secure and efficient smart contracts.
@@ -30,12 +30,6 @@ What's up, chainlinkers!  I'm Samuel, currently a computer Science and a develop
 ⚛️
 **Hardhat Hero:** Conquering the art of deploying and testing smart contracts with ease. 🪖
 
-
-**Looking to:**
-
-**Collab on Epic Projects:** Team up with other blockchain enthusiasts to build innovative dApps that change the game.
-
-Level Up My Skills: Seeking guidance from seasoned developers to refine my debugging and design skills.
 
 I'm always looking for opportunities to collaborate on projects that leverage the power of distributed technologies like blockchain.  
 
