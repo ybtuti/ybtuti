@@ -14,82 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Building on the Future: 0xodus's Blockchain Playground**
- ️
-What's up, chainlinkers!  I'm Samuel, currently a computer Science and a developer fueled by caffeine and a passion for exploring the decentralized world.
+## Building on the Future: 0xodus's Blockchain Playground
+
+What's up, chainlinkers!  I'm Samuel, currently a computer science student and developer fueled by caffeine and a passion for exploring the decentralized world.
 
 **Currently on my plate:**
 
-**Foundry** Diving deep into the world of smart contracts, building dApps on the blazing-fast Binance Smart Chain. 
+1. **Foundry Mastermind (Learning):** Diving deep into the world of Foundry for efficient blockchain development.
+2. **Smart Contract Security Champion (In Training):** Mastering the art of writing secure and auditable smart contracts.
+3. **React Rockstar (In Training):** Building dynamic user interfaces to bring my blockchain creations to life. ⚛️
+4. **Hardhat Hero (Adept):** Deployment and testing of smart contracts are second nature at this point. 🪖
 
-⚡️
-**Solidity Apprentice:** Mastering the art of writing secure and efficient smart contracts.
+**Recently Completed:**
 
-**React Rockstar (in Training):** Building dynamic user interfaces for my blockchain creations. 
+* **BNB Dev Specialization:** Conquered the challenges of building on the Binance Smart Chain.
 
-⚛️
-**Hardhat Hero:** Conquering the art of deploying and testing smart contracts with ease. 🪖
+**Continuously Leveling Up:**
 
+* **Cybersecurity Apprentice:** My TryHackMe journey is a never-ending quest for knowledge, patching those holes in the system faster than a flash (think Neo dodging bullets ). Stay tuned as I transform into a true white hat warrior!
 
-I'm always looking for opportunities to collaborate on projects that leverage the power of distributed technologies like blockchain.  
+**Let's Connect!**
 
-**Open to:**    
-    Answering Your Web3 & Cybersecurity Questions: No question is too basic, fire away! ❓️
-
-**Fun Fact:**  Did you know the first commercial transaction using blockchain technology was for... two pizzas!  (Thanks, Laszlo!)
+I'm always eager to learn and collaborate. Feel free to reach out and connect!
 
 This repo is a work in progress, so stay tuned for exciting updates as I build cool stuff on the blockchain!
 
 Feel free to reach out!
 
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/0xodus.png" alt="TryHackMe">
 
 
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ybtuti&theme=gotham" alt="Gift's LangStat" />
-
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ybtuti&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Gift's language" height="192px"  width="500px"/>  
-  
-
-  
+ <div style="display: flex; justify-content: left; align-items: left; gap: 100px;">
+   <img src="https://api.githubtrends.io/user/svg/ybtuti/langs?time_range=one_year&theme=dark" alt="Gift's LangStat"/>
+   <img src="https://api.githubtrends.io/user/svg/ybtuti/repos?time_range=one_year&group=other&theme=dark"/>
+   
 </div>
-
-
-
-
-
-
-
-Let's build the future, together!
-<!-- Building on the Future: [Your 's GitHub Playground ️
-Hey there!  I'm [Your Name], a computer science student currently diving deep into the world of blockchain development.   I'm particularly excited about the potential of the BNB Chain and its ability to revolutionize various industries.
-
-What I'm Building:
-
-Sharpening my skills in Solidity, the language for creating smart contracts on the BNB Chain.
-⚛️ Exploring the power of React for building intuitive user interfaces for blockchain applications.
-Experimenting with Hardhat as my development environment for a smooth and efficient workflow.
-Open to Collaboration!
-
-I'm always looking for opportunities to collaborate on projects that leverage the power of distributed technologies like blockchain.  If you have an idea you're itching to bring to life, let's chat!  I'm particularly interested in projects that:
-
-Foster a more collaborative and transparent future.
-Promote positive social impact.
-Push the boundaries of what's possible with blockchain technology.
-Need a Hand?  I Got You!
-
-While I'm still learning, I'm always happy to lend a helping hand with:
-
-Debugging your code and finding those pesky bugs. Design considerations for user interfaces in blockchain applications.
-Always Learning, Always Open!
-
-Feel free to reach out if you have any questions about Web3 or Cybersecurity - I'm constantly learning and love to share knowledge!
-
-Fun Fact:   The first commercial transaction using blockchain technology was for a pizza - talk about delicious innovation!
-
-Let's Connect!
-
-Stay updated on my projects by following this repository.
-You can also find me on [other social media platforms you use] (if applicable).
-Happy Coding! -->
+ 
