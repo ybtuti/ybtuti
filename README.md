@@ -42,7 +42,7 @@ This repo is a work in progress, so stay tuned for exciting updates as I build c
 Feel free to reach out!
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xodus.png" alt="TryHackMe"
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xodus.png" alt="TryHackMe">
 
 
  <div style="display: flex; justify-content: left; align-items: left; gap: 100px;">
