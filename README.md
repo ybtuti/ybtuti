@@ -31,7 +31,7 @@ What's up, chainlinkers!  I'm Samuel, currently a computer science student and d
 
 **Continuously Leveling Up:**
 
-* **Cybersecurity Apprentice:** My TryHackMe journey is a never-ending quest for knowledge, patching those holes in the system faster than a flash (think Neo dodging bullets ). Stay tuned as I transform into a true white hat warrior!
+* **Cybersecurity Apprentice:** My TryHackMe journey is a never-ending quest for knowledge, patching those holes in the system faster than a flash. Stay tuned as I transform into a true white hat warrior!
 
 **Let's Connect!**
 
