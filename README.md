@@ -41,7 +41,7 @@ This repo is a work in progress, so stay tuned for exciting updates as I build c
 
 Feel free to reach out!
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=ybtuti)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/0xodus.png" alt="TryHackMe">
 
