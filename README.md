@@ -33,7 +33,7 @@ What's up, chainlinkers!  I'm Samuel, currently a computer science student and d
 
 **Continuously Leveling Up:**
 
-* **Cybersecurity Apprentice:** My TryHackMe journey is a never-ending quest for knowledge, patching those holes in the system faster than a flash (think Neo dodging bullets ). Stay tuned as I transform into a true white hat warrior!
+* **Cybersecurity Apprentice:** My TryHackMe journey is a never-ending quest for knowledge, patching those holes in the system faster than a flash. Stay tuned as I transform into a true white hat warrior!
 
 **Let's Connect!**
 
@@ -43,6 +43,7 @@ This repo is a work in progress, so stay tuned for exciting updates as I build c
 
 Feel free to reach out!
 
+![](https://komarev.com/ghpvc/?username=ybtuti)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/0xodus.png" alt="TryHackMe">
 
