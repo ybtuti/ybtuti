@@ -24,6 +24,8 @@ What's up, chainlinkers!  I'm Samuel, currently a computer science student and d
 2. **Smart Contract Security Champion (In Training):** Mastering the art of writing secure and auditable smart contracts.
 3. **React Rockstar (In Training):** Building dynamic user interfaces to bring my blockchain creations to life. ⚛️
 4. **Hardhat Hero (Adept):** Deployment and testing of smart contracts are second nature at this point. 🪖
+5. **zkSync Builder (In Training):** Currently learning the ins and outs of building and deploying on zkSync, diving deep into Layer 2 scaling solutions.
+
 
 **Recently Completed:**
 
