@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Building on the Future: 0xodus's Blockchain Playground
+
 
 What's up, chainlinkers!  I'm Samuel, currently a computer science student and developer fueled by caffeine and a passion for exploring the decentralized world.
 
