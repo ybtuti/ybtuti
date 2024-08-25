@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 What's up, chainlinkers!  I'm Samuel, currently a computer science student and developer fueled by caffeine and a passion for exploring the decentralized world.
 
-**Currently on my plate:**
+<!-- **Currently on my plate:**
 
 1. **Foundry Mastermind (Learning):** Diving deep into the world of Foundry for efficient blockchain development.
 2. **Smart Contract Security Champion (In Training):** Mastering the art of writing secure and auditable smart contracts.
@@ -35,7 +35,7 @@ What's up, chainlinkers!  I'm Samuel, currently a computer science student and d
 
 * **Cybersecurity Apprentice:** My TryHackMe journey is a never-ending quest for knowledge, patching those holes in the system faster than a flash. Stay tuned as I transform into a true white hat warrior!
 
-**Let's Connect!**
+**Let's Connect!** -->
 
 I'm always eager to learn and collaborate. Feel free to reach out and connect!
 
